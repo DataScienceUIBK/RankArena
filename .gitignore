@@ -1,0 +1,25 @@
+.env
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# App & data
+user_data/
+logs/
+.cache/
+.gradio/
+*.sqlite
+*.db
+
+# OS / misc
+.DS_Store
+Thumbs.db
+
+# Large artifacts
+*.pt
+*.bin
+*.ckpt
+*.gguf
