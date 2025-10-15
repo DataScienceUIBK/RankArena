@@ -1,0 +1,4 @@
+rankify[all]
+plotly
+seaborn==0.13.2 
+gradio==5.49.1
